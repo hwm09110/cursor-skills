@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue 项目分析与 Skill 生成器"
+  short_description: "先分析 Vue Web 项目，再生成中文项目级开发 skill。"
+  default_prompt: "Use $vue-project-skill-builder to analyze a Vue Web repository first, produce project-analysis outputs, and then generate a project-specific development skill."
